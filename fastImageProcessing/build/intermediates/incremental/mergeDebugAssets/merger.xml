@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AshwaniLibrary\FastImageProcessing\fastImageProcessing\src\main\assets"/><source path="E:\AshwaniLibrary\FastImageProcessing\fastImageProcessing\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AshwaniLibrary\FastImageProcessing\fastImageProcessing\src\debug\assets"/></dataSet></merger>
