@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FastImageProcessing.iml" filepath="$PROJECT_DIR$/FastImageProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FastImageProcessing.iml" filepath="$PROJECT_DIR$/FastImageProcessing.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastImageProcessing/fastImageProcessing.iml" filepath="$PROJECT_DIR$/fastImageProcessing/fastImageProcessing.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastImageProcessing/fastImageProcessing.iml" filepath="$PROJECT_DIR$/fastImageProcessing/fastImageProcessing.iml" />
     </modules>
   </component>
